@@ -1,0 +1,20 @@
+[package]
+name = "vampire_api"
+version = "0.0.0"
+authors = ["Sͬeͥbͭaͭsͤtͬian <bastie@users.noreply.github.com>"]
+edition = "2018"
+homepage = "https://bastie.github.io/PythonVampire/#"
+
+description = "Just Another Vampire Api 4 Rust"
+readme = "README.md"
+repository = "https://github.com/bastie/RustVampire"
+keywords = ["Java", "vampire", "library", "developer"]
+license = "Apache-2.0"
+
+
+#exclude = ["build/**/*.o", "doc/**/*.html"]
+#include = ["src/**/*", "Cargo.toml"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
