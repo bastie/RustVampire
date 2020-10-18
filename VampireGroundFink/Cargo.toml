@@ -32,5 +32,25 @@ crate-type = ["cdylib", "rlib", "staticlib"] # The crate types to generate. - ca
 
 
 [dependencies]
+java-properties = "1.2.0"
+java_random = "0.1.3"
+dotproperties = "0.1.0"
+java-utils = "0.1.0"
+java-rand = "0.2.0"
+file_scanner = "0.2.0"
+flurry = "0.3.1"
+atomic-array = "0.3.1"
+atomic-ref2 = "0.2.1"
+comparator = "0.2.1"
+manual_future = "0.1.1"
+rust_runnables = "0.2.0"
+timsort = "0.1.2"
+plain_enum = "0.9.9"
+simple-string-builder = "0.2.0"
+collections-more = "0.1.4"
+lockfreehashmap = "0.1.2"
+log4rs = "1.0.0-alpha-2"
+steel-cent = "0.2.3"
+
 
 [dev-dependencies]
